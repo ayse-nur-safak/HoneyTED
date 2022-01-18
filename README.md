@@ -1,3 +1,3 @@
 # HoneyTED
-A SSH Honeypot Prject
+A SSH Honeypot Project
 
